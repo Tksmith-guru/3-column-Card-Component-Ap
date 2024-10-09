@@ -13,7 +13,6 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    /* border: 2px solid red; */
     width: 58%;
     height: 500px;
 }
@@ -27,7 +26,6 @@ main {
     height: 100%;
     padding: 0 35px;
     box-sizing: border-box;
-    /* border: 2px solid goldenrod; */
 }
 
 .card1 {
